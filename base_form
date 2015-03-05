@@ -1,4 +1,9 @@
-`# Import the widgets library
+##########################################################################################################
+# This is a base form for Stelios' experiment. It contains 12 widgets aka boxes around a 13th large one. #
+# The large one can host the fixation point, the other 12 will contain the letters.			 #
+##########################################################################################################
+
+# Import the widgets library
 from libopensesame import widgets
 
 # Create a form 4X4
